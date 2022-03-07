@@ -1,3 +1,6 @@
+# 이 저장소는 withFolio의 web저장소입니다. 
+> withFolio는 기획자, 개발자, 디자이너로 IT직군에 종사하고자하는 사람들이 협업하며, 포트폴리오를 준비할 수 있도록 돕는 커뮤니티입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
